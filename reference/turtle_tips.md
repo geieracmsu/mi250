@@ -13,7 +13,7 @@ right/left
 forward
 penup/pendown
 pencolor/color
-* https://trinket.io/docs/colors
+* https://coddy.tech/tools/color-converter#named-colors
 * color picker for hex codes: https://htmlcolorcodes.com/
 begin_fill/end_fill
 import

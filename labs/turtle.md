@@ -157,7 +157,7 @@ Modify your program to fill in the stars with a color. You can specify the fill 
 
 ### Exercise 12: Brightly Colored Stars
 
-Black is boring. Make the stars brightly colored. Here's a handy resource for [colors you can use in Turtle](https://trinket.io/docs/colors){:target="_blank"}. 
+Black is boring. Make the stars brightly colored. Here's a handy resource for [colors you can use in Turtle](https://coddy.tech/tools/color-converter#named-colors){:target="_blank"}. 
 
 If you want an even broader range of colors, you can also use HTML color codes, also known as hex codes. Here's a good [color picker](https://htmlcolorcodes.com/){:target="_blank"}. Google can help you figure out how to use hex codes with Turtle.
 
